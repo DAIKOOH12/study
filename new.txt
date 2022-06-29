@@ -1,1 +1,1 @@
-Trước khi stash
+Kiếm tra xem đã được push lên chưa
